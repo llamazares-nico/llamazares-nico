@@ -6,7 +6,7 @@ I'm a fullstack developer at the Ministry of Economy of Buenos Aires Province, w
 
 Before software, I spent three years as a naval mechanic at Astillero Río Santiago — which taught me to find out *why* something broke before fixing it.
 
-**Stack:** C# · .NET / ASP.NET Core · Entity Framework · React · Next.js · JavaScript · Tailwind · Kotlin · PostgreSQL · MySQL · Git · Azure · Vercel
+**Stack:** C# · .NET / ASP.NET Core · Entity Framework · React · Next.js · JavaScript · Tailwind · PostgreSQL · MySQL · Git · Azure · Vercel
 
 ## Projects
 
